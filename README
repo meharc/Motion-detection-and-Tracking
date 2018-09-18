@@ -1,0 +1,4 @@
+The code entails the following :
+a) motion detection using optical flow
+b) dense as well as sparse (lukas-kanade) optical flow has been used
+c) motion detcetion using absolute differenec between two frames.
